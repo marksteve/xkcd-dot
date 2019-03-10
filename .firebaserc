@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "playground-163312"
+  },
+  "targets": {
+    "playground-163312": {
+      "hosting": {
+        "xkcd-dot": [
+          "xkcd-dot"
+        ]
+      }
+    }
+  }
+}
